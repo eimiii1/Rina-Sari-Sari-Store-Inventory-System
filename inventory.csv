@@ -1,0 +1,4 @@
+code,name,category,unit,cost_price,selling_price,quantity,reorder_level
+P002,Coca Cola,Beverage,pc,12,15,18,10
+P001,Kopiko Blanca,Beverage,pc,12,16,40,20
+P003,Sprite,Beverage,pc,10,13,56,10
